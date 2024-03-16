@@ -1,0 +1,11 @@
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\bin\Debug\net6.0\MathMaker.deps.json
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\bin\Debug\net6.0\MathMaker.dll
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\bin\Debug\net6.0\MathMaker.pdb
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\obj\Debug\net6.0\MathMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\obj\Debug\net6.0\MathMaker.AssemblyInfoInputs.cache
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\obj\Debug\net6.0\MathMaker.AssemblyInfo.cs
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\obj\Debug\net6.0\MathMaker.csproj.CoreCompileInputs.cache
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\obj\Debug\net6.0\MathMaker.dll
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\obj\Debug\net6.0\refint\MathMaker.dll
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\obj\Debug\net6.0\MathMaker.pdb
+D:\Dropbox\Prog\CSharp\Projects\MathMaker\obj\Debug\net6.0\ref\MathMaker.dll
